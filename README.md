@@ -17,7 +17,7 @@ package main
 
 import (
     "fmt"
-    ce "github.com/peroxidemonke7/v0tov1_expressions/convert_expressions"
+    ce "github.com/peroxidemonke7/v0tov1_expressions/convertexpressions"
 )
 
 func main() {
@@ -39,7 +39,7 @@ package main
 
 import (
     "fmt"
-    ce "github.com/peroxidemonke7/v0tov1_expressions/convert_expressions"
+    ce "github.com/peroxidemonke7/v0tov1_expressions/convertexpressions"
 )
 
 func main() {
