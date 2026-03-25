@@ -1,3 +1,3 @@
 module github.com/peroxidemonke7/v0tov1_expressions
 
-go 1.24.6
+go 1.19
